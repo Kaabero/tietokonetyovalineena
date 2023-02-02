@@ -1,4 +1,4 @@
-lisää kokeilua
+lisää kokeilua aiheutetaan konflikti
 
 <<<<<<< Updated upstream
 Muokataan alkua: tämä on teksiä
