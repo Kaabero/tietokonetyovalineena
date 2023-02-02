@@ -1,7 +1,10 @@
-lisää kokeilua aiheutetaan konflikti
 
-<<<<<<< Updated upstream
+lisää kokeilua aiheutetaan konflikti
+aiheutetaan konflikti, lisää kokeilua
+
+
+
 Muokataan alkua: tämä on teksiä
-=======
+
 tämä on teksiä. Muokataan viimeistä lausetta
->>>>>>> Stashed changes
+
